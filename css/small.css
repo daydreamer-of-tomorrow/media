@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(46, 97, 135);
+}
+.pic{
+    background-image: url(../images/mtcx2.png);
+    background-repeat: round;
+    height: 211.6px;
+    width: 415.6px;
+    margin: 20px auto;
+}
