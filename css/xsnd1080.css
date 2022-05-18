@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    margin: 20px auto;
+    width: 980px;
+    overflow: hidden;
+}
+div ul{
+    list-style: none;
+}
+div ul li{
+    width: 180px;
+    height: 180px;
+    background-color: rgb(180, 46, 46);
+    margin-right: 20px;
+    float:left;
+    margin-bottom: 20px;
+}
+div ul li:nth-child(5n){
+    margin-right: 0px;
+}
